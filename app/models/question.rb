@@ -10,7 +10,7 @@ class Question
     self.type = 'Multiple Choice'
     self.question = x #set this later
     self.answer = {
-        
+
     }
 
   end
